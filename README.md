@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Clustering algorithms
-- 🌱 I’m currently learning AI
-- 🤔 I’m looking for help with SEO and Digital Marketing Strategies
+- 🔭 Currently working on: Django
+- 🌱 Target for 2023     : FastAPI, Flask, AWS SSM, 
+- 🤔 Interest            : Interested to get into IoT space
 
 
 <!--
