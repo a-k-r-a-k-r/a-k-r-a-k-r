@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 -  Exploring new pathways
+-  Will be updating this field shortly
 <!--
 - 🔭 Currently working on: Django
 - 🌱 Target for 2023     : FastAPI, Flask, AWS SSM, 
