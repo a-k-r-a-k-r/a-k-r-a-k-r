@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+-
+<!--
 - 🔭 Currently working on: Django
 - 🌱 Target for 2023     : FastAPI, Flask, AWS SSM, 
 - 🤔 Interest            : Interested to get into IoT space
-
+-->
 
 <!--
 - 👯 I’m looking to collaborate on ...
